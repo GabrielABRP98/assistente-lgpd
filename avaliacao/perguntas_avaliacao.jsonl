@@ -1,0 +1,40 @@
+{"pergunta": "minha loja precisa pedir autorização do cliente pra guardar o CPF dele?", "artigos": ["7", "8"], "artigo_visto_no_treino": true}
+{"pergunta": "o que conta como informação pessoal pela lei?", "artigos": ["5"], "artigo_visto_no_treino": true}
+{"pergunta": "religião e biometria têm proteção especial?", "artigos": ["5", "11"], "artigo_visto_no_treino": true}
+{"pergunta": "o cliente pode me pedir uma cópia de tudo que tenho sobre ele?", "artigos": ["18", "19"], "artigo_visto_no_treino": true}
+{"pergunta": "tenho quantos dias pra mandar os dados que o cliente pediu?", "artigos": ["19"], "artigo_visto_no_treino": true}
+{"pergunta": "fui hackeado e vazaram e-mails de clientes, preciso avisar alguém?", "artigos": ["48"], "artigo_visto_no_treino": true}
+{"pergunta": "quanto a empresa pode pagar de multa se descumprir a lei?", "artigos": ["52"], "artigo_visto_no_treino": true}
+{"pergunta": "preciso ter um responsável por proteção de dados na empresa?", "artigos": ["41"], "artigo_visto_no_treino": true}
+{"pergunta": "posso usar a foto de um aluno de 10 anos no site da escola?", "artigos": ["14"], "artigo_visto_no_treino": true}
+{"pergunta": "usar servidor na nuvem nos Estados Unidos é permitido?", "artigos": ["33"], "artigo_visto_no_treino": true}
+{"pergunta": "o cliente pode mudar de ideia depois de autorizar o uso dos dados?", "artigos": ["8", "18"], "artigo_visto_no_treino": true}
+{"pergunta": "a autorização do cliente precisa ser por escrito?", "artigos": ["8"], "artigo_visto_no_treino": true}
+{"pergunta": "uma empresa de fora do Brasil precisa seguir a LGPD?", "artigos": ["3"], "artigo_visto_no_treino": true}
+{"pergunta": "quais são os princípios que eu tenho que respeitar ao usar dados?", "artigos": ["6"], "artigo_visto_no_treino": true}
+{"pergunta": "se eu terceirizar o sistema e a terceirizada vazar os dados, quem paga o prejuízo?", "artigos": ["42"], "artigo_visto_no_treino": true}
+{"pergunta": "posso usar dados de clientes para marketing sem pedir consentimento?", "artigos": ["7", "10"], "artigo_visto_no_treino": true}
+{"pergunta": "que tipo de proteção técnica tenho que ter nos meus sistemas?", "artigos": ["46"], "artigo_visto_no_treino": true}
+{"pergunta": "a prefeitura pode usar meus dados sem me pedir?", "artigos": ["23"], "artigo_visto_no_treino": true}
+{"pergunta": "o cliente pode levar os dados dele para a concorrente?", "artigos": ["18"], "artigo_visto_no_treino": true}
+{"pergunta": "o que eu preciso informar ao cliente quando coleto os dados dele?", "artigos": ["9"], "artigo_visto_no_treino": true}
+{"pergunta": "vale a pena criar um programa de privacidade interno?", "artigos": ["50"], "artigo_visto_no_treino": true}
+{"pergunta": "dados de exames médicos podem ser vendidos para planos de saúde?", "artigos": ["11"], "artigo_visto_no_treino": true}
+{"pergunta": "o que é um relatório de impacto e quando faço?", "artigos": ["38", "5"], "artigo_visto_no_treino": true}
+{"pergunta": "a lei já está valendo?", "artigos": ["65"], "artigo_visto_no_treino": true}
+{"pergunta": "a lei vale para dados que eu uso só para fins pessoais, tipo minha agenda?", "artigos": ["4"], "artigo_visto_no_treino": false}
+{"pergunta": "jornalista precisa seguir a LGPD numa reportagem?", "artigos": ["4"], "artigo_visto_no_treino": false}
+{"pergunta": "se eu anonimizar a planilha, ainda é dado pessoal?", "artigos": ["12"], "artigo_visto_no_treino": false}
+{"pergunta": "quando tenho que parar de usar os dados de um cliente?", "artigos": ["15"], "artigo_visto_no_treino": false}
+{"pergunta": "depois que acaba o contrato, posso guardar os dados do cliente?", "artigos": ["16"], "artigo_visto_no_treino": false}
+{"pergunta": "o cliente pode pedir revisão de uma decisão tomada só pelo algoritmo, tipo negar crédito?", "artigos": ["20"], "artigo_visto_no_treino": false}
+{"pergunta": "preciso manter um registro de todas as operações com dados?", "artigos": ["37"], "artigo_visto_no_treino": false}
+{"pergunta": "a empresa terceirizada que processa dados pode fazer o que quiser com eles?", "artigos": ["39"], "artigo_visto_no_treino": false}
+{"pergunta": "em que casos a empresa não é responsabilizada por um dano com dados?", "artigos": ["43"], "artigo_visto_no_treino": false}
+{"pergunta": "se o problema for numa relação de consumo vale o Código de Defesa do Consumidor?", "artigos": ["45"], "artigo_visto_no_treino": false}
+{"pergunta": "os sistemas precisam ser feitos já pensando em segurança e boas práticas?", "artigos": ["49", "46"], "artigo_visto_no_treino": false}
+{"pergunta": "uma empresa estrangeira pode ser notificada pela filial no Brasil?", "artigos": ["61"], "artigo_visto_no_treino": false}
+{"pergunta": "e os bancos de dados que já existiam antes da lei?", "artigos": ["63"], "artigo_visto_no_treino": false}
+{"pergunta": "o titular pode perder direitos porque pediu acesso aos dados?", "artigos": ["21"], "artigo_visto_no_treino": false}
+{"pergunta": "pesquisas de saúde pública podem usar dados pessoais?", "artigos": ["13"], "artigo_visto_no_treino": false}
+{"pergunta": "a autoridade nacional pode definir padrões de interoperabilidade para portabilidade?", "artigos": ["40"], "artigo_visto_no_treino": false}

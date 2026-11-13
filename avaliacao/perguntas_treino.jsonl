@@ -1,0 +1,56 @@
+{"pergunta": "Qual é o objetivo da Lei Geral de Proteção de Dados?", "artigos": ["1"]}
+{"pergunta": "A LGPD vale para dados tratados em meios digitais e físicos?", "artigos": ["1"]}
+{"pergunta": "Quais são os fundamentos da disciplina de proteção de dados pessoais?", "artigos": ["2"]}
+{"pergunta": "A autodeterminação informativa é um fundamento da LGPD?", "artigos": ["2"]}
+{"pergunta": "A lei se aplica a empresa estrangeira que oferece serviços a brasileiros?", "artigos": ["3"]}
+{"pergunta": "Em que situações a LGPD se aplica conforme o local da coleta?", "artigos": ["3"]}
+{"pergunta": "O que a lei define como dado pessoal sensível?", "artigos": ["5"]}
+{"pergunta": "Qual a definição de controlador e de operador?", "artigos": ["5"]}
+{"pergunta": "O que significa anonimização segundo a lei?", "artigos": ["5"]}
+{"pergunta": "Quem é o titular dos dados pessoais?", "artigos": ["5"]}
+{"pergunta": "Quais princípios devem ser observados no tratamento de dados?", "artigos": ["6"]}
+{"pergunta": "O que é o princípio da necessidade?", "artigos": ["6"]}
+{"pergunta": "O princípio da transparência exige o quê do controlador?", "artigos": ["6"]}
+{"pergunta": "Quais são as hipóteses legais que autorizam o tratamento de dados pessoais?", "artigos": ["7"]}
+{"pergunta": "Posso tratar dados para cumprir obrigação legal sem consentimento?", "artigos": ["7"]}
+{"pergunta": "O legítimo interesse é base legal para tratamento?", "artigos": ["7", "10"]}
+{"pergunta": "Como deve ser fornecido o consentimento do titular?", "artigos": ["8"]}
+{"pergunta": "De quem é o ônus de provar que o consentimento foi obtido?", "artigos": ["8"]}
+{"pergunta": "O consentimento pode ser revogado a qualquer momento?", "artigos": ["8"]}
+{"pergunta": "Quais informações o titular tem direito de receber sobre o tratamento?", "artigos": ["9"]}
+{"pergunta": "O titular deve ser informado sobre a finalidade e a duração do tratamento?", "artigos": ["9"]}
+{"pergunta": "Quando o legítimo interesse do controlador pode fundamentar o tratamento?", "artigos": ["10"]}
+{"pergunta": "Em quais hipóteses dados sensíveis podem ser tratados?", "artigos": ["11"]}
+{"pergunta": "Dados de saúde podem ser compartilhados para obter vantagem econômica?", "artigos": ["11"]}
+{"pergunta": "Como deve ser o tratamento de dados de crianças?", "artigos": ["14"]}
+{"pergunta": "É necessário consentimento de um dos pais para tratar dados de criança?", "artigos": ["14"]}
+{"pergunta": "Toda pessoa natural tem assegurada a titularidade de seus dados?", "artigos": ["17"]}
+{"pergunta": "Quais direitos o titular pode exigir do controlador?", "artigos": ["18"]}
+{"pergunta": "O titular pode pedir a portabilidade dos dados para outro fornecedor?", "artigos": ["18"]}
+{"pergunta": "O titular pode solicitar a eliminação dos dados tratados com consentimento?", "artigos": ["18"]}
+{"pergunta": "Em quanto tempo o controlador deve responder a um pedido de acesso aos dados?", "artigos": ["19"]}
+{"pergunta": "A confirmação de existência de dados pode ser fornecida em formato simplificado?", "artigos": ["19"]}
+{"pergunta": "A defesa dos interesses dos titulares pode ser exercida em juízo?", "artigos": ["22"]}
+{"pergunta": "Como o poder público pode tratar dados pessoais?", "artigos": ["23"]}
+{"pergunta": "Órgãos públicos precisam informar as hipóteses em que tratam dados?", "artigos": ["23"]}
+{"pergunta": "Em quais casos é permitida a transferência internacional de dados?", "artigos": ["33"]}
+{"pergunta": "Posso transferir dados para país com nível adequado de proteção?", "artigos": ["33"]}
+{"pergunta": "O que é o relatório de impacto à proteção de dados pessoais?", "artigos": ["38", "5"]}
+{"pergunta": "A autoridade nacional pode exigir relatório de impacto do controlador?", "artigos": ["38"]}
+{"pergunta": "Quem deve indicar o encarregado pelo tratamento de dados?", "artigos": ["41"]}
+{"pergunta": "Quais são as atividades do encarregado?", "artigos": ["41"]}
+{"pergunta": "O controlador que causar dano ao titular é obrigado a repará-lo?", "artigos": ["42"]}
+{"pergunta": "O operador responde solidariamente pelos danos?", "artigos": ["42"]}
+{"pergunta": "Quando o tratamento de dados é considerado irregular?", "artigos": ["44"]}
+{"pergunta": "Que medidas de segurança os agentes de tratamento devem adotar?", "artigos": ["46"]}
+{"pergunta": "A segurança deve ser observada desde a concepção do produto ou serviço?", "artigos": ["46"]}
+{"pergunta": "Quem deve garantir a segurança da informação após o término do tratamento?", "artigos": ["47"]}
+{"pergunta": "O que fazer quando ocorre um incidente de segurança com dados pessoais?", "artigos": ["48"]}
+{"pergunta": "O que deve conter a comunicação de incidente à autoridade nacional?", "artigos": ["48"]}
+{"pergunta": "Os controladores podem formular regras de boas práticas e governança?", "artigos": ["50"]}
+{"pergunta": "O que um programa de governança em privacidade deve demonstrar?", "artigos": ["50"]}
+{"pergunta": "Quais sanções administrativas podem ser aplicadas pela autoridade nacional?", "artigos": ["52"]}
+{"pergunta": "Qual o valor máximo da multa simples por infração?", "artigos": ["52"]}
+{"pergunta": "Quais critérios são considerados na aplicação das sanções?", "artigos": ["52"]}
+{"pergunta": "Os direitos da LGPD excluem outros previstos em lei?", "artigos": ["64"]}
+{"pergunta": "Quando a lei entra em vigor?", "artigos": ["65"]}
